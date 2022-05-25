@@ -1,7 +1,7 @@
 #include<stdio.h>
-int MaxSum（int array[]，int len）
+int MaxSum（int array[]，int l）
 {
-if（array == NULL || len<=0）
+if（array == NULL || l<=0）
     {
 返回;
     }
